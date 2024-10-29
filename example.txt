@@ -1,1 +1,1 @@
-This is Branch B content
+This content is from Branch A and Branch B
